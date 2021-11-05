@@ -1,7 +1,7 @@
 document.getElementById("player").addEventListener("mouseover",sumarPuntos);
 
 puntos = 0;
-tiempo = 25;
+tiempo = 20;
 necesarios = 30;
 function sumarPuntos(){
     puntos++;
